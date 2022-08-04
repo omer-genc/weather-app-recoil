@@ -1,5 +1,5 @@
 # Real Time Weather App with React and Recoil
-[Live link]()
+[Live link](https://weather-app-recoil-kne1u6t4k-omer-genc.vercel.app/)
 ## Techs:
 1. React
 2. Vite
